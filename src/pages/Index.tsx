@@ -273,7 +273,7 @@ const Index = () => {
           <ScrollReveal effect="fade-in" delay={300}>
             <div className="flex items-center justify-center h-50">
               <img
-                src="public\educationBuildings.jpg"
+                src="educationBuildings.jpg"
                 alt="Education"
                 className="rounded-xl shadow-lg w-full max-w-xs"
               />

@@ -115,7 +115,7 @@ const Index = () => {
             <TiltCard className="bg-navy-800/50 p-6 rounded-xl backdrop-blur-sm" tiltIntensity={7}>
               <div className="flex flex-col items-center text-center">
                 <div className="w-48 h-48 rounded-full overflow-hidden mb-6 border-4 border-purple/20">
-                  <img src="public\ProfilePhoto.jpg" alt="Profile" className="w-full h-full object-cover" />
+                <img src="/Nivesh_Jain_Portfolio/ProfilePhoto.jpg" alt="Profile" className="w-full h-full object-cover" />
                 </div>
                 <h3 className="text-2xl font-bold mb-2">Nivesh Jain</h3>
                 <p className="text-silver/70 mb-4">Software Engineer</p>
